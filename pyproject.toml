@@ -1,6 +1,6 @@
 [project]
 name = "chquery"
-version = "0.0.1"
+version = "0.0.2"
 description = "CHQuery is an async Python client and query builder for ClickHouse, built on top of asynch using native TCP connection for speed."
 authors = [
     {name = "Filip Nyquist", email = "nyquistfilip@gmail.com"},
