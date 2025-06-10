@@ -6,7 +6,7 @@ authors = [
     {name = "Filip Nyquist", email = "nyquistfilip@gmail.com"},
 ]
 dependencies = ["asynch[compression]>=0.3.0"]
-requires-python = ">=3.12"
+requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
